@@ -93,4 +93,4 @@ const c = new Circle({
   color: 'green',
 })
 
-const b = 5
+console.log('test 2')
