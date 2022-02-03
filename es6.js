@@ -92,3 +92,5 @@ const c = new Circle({
   size: 90,
   color: 'green',
 })
+
+const b = 5
